@@ -1,0 +1,26 @@
+.texto {
+  display: inline-block;
+  width: 100%;
+  text-align: justify;
+  font-weight: normal !important;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 550px;
+}
+
+.page-link {
+  color: #fff !important;
+  background-color: #343a40 !important;
+  border-color: #343a40 !important;
+}
+
+.carousel-caption {
+  color: #fff;
+  top: 0;
+}
+
+.bt-action {
+  width: 100px;
+}
